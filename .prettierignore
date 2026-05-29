@@ -1,0 +1,7 @@
+.turbo
+CHANGELOG.md
+coverage
+dist
+node_modules
+pnpm-lock.yaml
+skills/**/SKILL.md
